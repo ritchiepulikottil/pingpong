@@ -32,7 +32,7 @@ other multitouch application software with a natural user interface.
 
 #After python and kivy are configured successfully, download all the files inside this repository 
 
-(Note : "FinalCleanCode.py" is final code, remaining files are day-day updates)
+(Note : "FinalCleanCode.py" is the final code, remaining files are day-day updates)
 
 
 #Make sure that the .py file and the .kv file are downloaded in the same folder
