@@ -18,6 +18,7 @@ other multitouch application software with a natural user interface.
 # Instructions
 
 #The user would require to install the Kivy framework in his computer for this game to work. 
+
 (Visit : https://kivy.org/#download)
 
 
@@ -25,6 +26,7 @@ other multitouch application software with a natural user interface.
 
 
 #After python and kivy are configured successfully, download all the files inside this repository 
+
 (Note : "FinalCleanCode.py" is final code, remaining files are day-day updates)
 
 
