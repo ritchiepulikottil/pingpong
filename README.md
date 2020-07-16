@@ -1,5 +1,4 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # PingPongGame.py using kivy framework
 
 
@@ -16,7 +15,6 @@
 other multitouch application software with a natural user interface.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # Instructions
 
 
@@ -35,7 +33,6 @@ other multitouch application software with a natural user interface.
 #After completing the above instructions, simply open the .py file and the game should start automatically.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # Bugs
 
 
