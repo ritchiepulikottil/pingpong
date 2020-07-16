@@ -1,6 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 # PingPongGame.py using Kivy framework
 
 
@@ -13,11 +12,10 @@
 #The player gains a point when the player two misses to hit the ball.
 
 
-#Kivy is a free and open source Python library for developing mobile apps and other multitouch application software with a natural user interface.
-
+#Kivy is a free and open source Python library for developing mobile apps and
+other multitouch application software with a natural user interface.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 # Instructions
 
@@ -36,9 +34,7 @@
 
 #After completing the above instructions, simply open the .py file and the game should start automatically.
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 # BUGS 
 
@@ -50,6 +46,5 @@
 #Sometimes the ball is caught inside the paddle and the score increases invariably. Hence make sure that the ball hits the surface of the paddle to avoid this bug.
 
 Enjoy :) 
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
