@@ -22,6 +22,11 @@ other multitouch application software with a natural user interface.
 (Visit : https://kivy.org/#download)
 
 
+#Its better to install pygame along with kivy.
+
+(type pip install pygame @cmd)
+
+
 #Best stable version of python to support Kivy would be Python 3.7.1
 
 
