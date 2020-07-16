@@ -16,7 +16,6 @@
 
 
 # Instructions
-
 #The user would require to install the Kivy framework in his computer for this game to work. (Visit : https://kivy.org/#download)
 
 
@@ -36,7 +35,6 @@
 
 
 # BUGS 
-
 #The velocity increases over time, hence after a while its almost impossible to control the ball
 
 #The ball might start off with a weird direction due to the values produced by RandInt function. In such cases, simply restart the .py file
