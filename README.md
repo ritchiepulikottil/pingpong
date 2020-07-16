@@ -1,7 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # PingPongGame.py using kivy framework
 
-
 #PingPong is a two-dimensional sports game that resembles table tennis.
 
 
@@ -16,7 +15,6 @@ other multitouch application software with a natural user interface.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Instructions
-
 
 #The user would require to install the Kivy framework in his computer for this game to work. (Visit : https://kivy.org/#download)
 
@@ -34,7 +32,6 @@ other multitouch application software with a natural user interface.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Bugs
-
 
 #The velocity increases over time, hence after a while its almost impossible to control the ball
 
