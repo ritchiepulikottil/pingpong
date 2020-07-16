@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# PingPongGame.py using Kivy framework
+# PingPongGame.py using kivy framework
 
 
 #PingPong is a two-dimensional sports game that resembles table tennis.
@@ -36,7 +36,7 @@ other multitouch application software with a natural user interface.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# BUGS 
+# Bugs
 
 
 #The velocity increases over time, hence after a while its almost impossible to control the ball
@@ -45,6 +45,6 @@ other multitouch application software with a natural user interface.
 
 #Sometimes the ball is caught inside the paddle and the score increases invariably. Hence make sure that the ball hits the surface of the paddle to avoid this bug.
 
-Enjoy :) 
+enjoy :) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
